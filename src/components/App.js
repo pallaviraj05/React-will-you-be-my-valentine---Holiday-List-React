@@ -44,7 +44,7 @@ class App extends Component {
 
         <div id="main">
                {/* Do not remove the main div */}
-        <ol key={"relativeList"} >
+        <ol key={"location"} >
             <li key={"location1"}>Goa(India)</li>
             <li key={"location2"}>Amsterdam(Netherlands)</li>
             <li key={"location3"}>New York(USA)</li>
